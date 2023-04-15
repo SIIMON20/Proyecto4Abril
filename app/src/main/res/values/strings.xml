@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto25Febrero</string>
+    <string name="Login_Tittle">App de consulta</string>
+    <string name="Sub_Tittle">Enciclopedia Yu-Gi-Oh!</string>
+    <string name="Text_Legal1">Al usar esta aplicacion esta aceptando nuestros </string>
+    <string name="Text_Legal2">terminos de servicio</string>
+    <string name="Text_Legal3"> y </string>
+    <string name="Text_Legal4"> Nuestra politica de privacidad </string>
+    <string name="Login_Cta"> Login with Google </string>
+    <string name="Home_Screen"> HOME </string>
+</resources>
